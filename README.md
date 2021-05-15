@@ -15,10 +15,9 @@ Exercise to practice Grid functionalities.
 It contains practices of gradients in menus, selection of products in a grid with effects in css.
 
 
-## Screenshots
+## Demo
 
-![App Screenshot](https://i.ibb.co/nDhGMDq/3.jpg)
-
+![w3353](https://user-images.githubusercontent.com/38353024/118358744-88c53900-b580-11eb-9f9c-3bce2d91a33e.gif)
   
 ## Authors
 
